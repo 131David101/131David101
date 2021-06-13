@@ -1,4 +1,4 @@
-- 👋 Hi, I’m new to Github and currently experimenting with it and React
+- 👋 Hi, I’m currently experimenting with it and React and RxJS
 
 
 
