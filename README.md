@@ -1,4 +1,4 @@
-- 👋 Hi, I’m currently experimenting with it and React and RxJS
+- 👋 Hi, I’m currently experimenting with React and RxJS
 
 
 
